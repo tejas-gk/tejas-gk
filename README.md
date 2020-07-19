@@ -1,7 +1,8 @@
 ##### Hi there 👋
-
-
-<!--
+![oip](https://github.com/tejas-gk/tejas-gk/blob/master/OIP.jpg)<br>
+![php_mysql_logo](https://github.com/tejas-gk/tejas-gk/blob/master/php_mysql_logo.png)<br>
+![download](https://github.com/tejas-gk/tejas-gk/blob/master/download.jpg)
+<!-- php_mysql_logo
 **tejas-gk/tejas-gk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
