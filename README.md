@@ -1,5 +1,6 @@
 ##### Hi there 👋
-![My github stats](https://github-readme-stats.vercel.app/api?username=tejas-gk&show_icons=true)
+
+
 <!--
 **tejas-gk/tejas-gk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<particulars>
+  <abstract></abstract>
+  <br>
+
+  - **[My Instagram](https://www.instagram.com/tejas.g.k_/)**.
+
+ 
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=tejas-gk&show_icons=true)
+
+</particulars>
+
+
+
