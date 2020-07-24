@@ -15,7 +15,7 @@
 <br>
 <br>
 
-Hi, I'm Harshit Bansal, a Web Developer 🚀 from India
+Hi, I'm tejas gk, a Web Developer 🚀 from India
 - 🔭 I’m currently working on  **orkut**
 
 
