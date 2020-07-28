@@ -1,5 +1,10 @@
 ## Hey 👋🏻, tejas
 
+
+
+
+
+
 <a href="https://twitter.com/tejasgk17">
   <img align="left" alt="Harshit Bansal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -39,7 +44,7 @@ Hi, I'm tejas gk
 [![tejas-gk/orkut](https://github-readme-stats.vercel.app/api/pin/?username=tejas-gk&repo=orkut&theme=radical)](https://github.com/tejas-gk/orkut)  
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-gk&layout=compact)](https://github.com/tejas-gk/github-readme-stats)
 
 
 
