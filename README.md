@@ -15,8 +15,8 @@
 <br>
 <br>
 
-Hi, I'm tejas gk, a Web Developer 🚀 from India
-- 🔭 I’m currently working on  **orkut**
+Hi, I'm tejas gk
+
 
 
 
