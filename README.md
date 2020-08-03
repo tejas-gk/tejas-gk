@@ -1,8 +1,9 @@
-### <h5>Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">tejas</h5>
+### <center><h1>Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">tejas</h1></center>
 
-
-
-
+- 🌍 im a fullstack developer
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- ⚙️learning:react.js and react-native
+- 😋apart from programming like to :watch anime;read books
 
 
 
@@ -45,8 +46,7 @@
 <br>	
 
 
-**learning**:<br>*react.js&react-native*	
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>	
+
 
 
 
