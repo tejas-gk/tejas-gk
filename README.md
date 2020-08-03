@@ -26,7 +26,7 @@
 
 
 
-**keep in touch**
+**keep in touch**<br>
 <a href="https://twitter.com/tejasgk17">	
   <img align="left" alt="tej | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />	
 </a>	
@@ -39,9 +39,8 @@
 <a href="https://www.facebook.com/tejas.gk.9">	
   <img align="left" alt="tej" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />	
 </a>	
-
-<img src="https://media.giphy.com/media/3o7bugwhhJE9WhxkYw/source.gif">
-<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
+<br>
+<img src="https://media.giphy.com/media/3o7bugwhhJE9WhxkYw/source.gif"> <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
 <br>	
 <br>	
 
