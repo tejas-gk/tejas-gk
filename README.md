@@ -1,8 +1,31 @@
-### Hi there 👋
-
-## <h5>Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">tejas</h5>
+### <h5>Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">tejas</h5>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**keep in touch**
 <a href="https://twitter.com/tejasgk17">	
   <img align="left" alt="tej | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />	
 </a>	
@@ -16,13 +39,20 @@
   <img align="left" alt="tej" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />	
 </a>	
 
-
+<img src="https://media.giphy.com/media/3o7bugwhhJE9WhxkYw/source.gif">
+<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
 <br>	
 <br>	
 
 
 **learning**:<br>*react.js&react-native*	
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>	
+
+
+
+
+
+
 
 
 
