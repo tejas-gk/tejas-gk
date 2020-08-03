@@ -40,7 +40,12 @@
   <img align="left" alt="tej" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />	
 </a>	
 <br>
-<img src="https://media.giphy.com/media/3o7bugwhhJE9WhxkYw/source.gif"> <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
+
+
+
+
+
+<img src="https://media.giphy.com/media/3o7bugwhhJE9WhxkYw/source.gif" width="450" height="350"> <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="450" height="350">
 <br>	
 <br>	
 
