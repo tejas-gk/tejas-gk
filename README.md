@@ -2,7 +2,11 @@
 
 - 🌍 im a fullstack developer
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
-- ⚙️learning:react.js and react-native
+- ⚙️learning:
+   - react.js 
+   - react-native
+   - illustrator
+   - photoshop
 - 😋apart from programming like to :watch anime;read books
 
 
