@@ -81,7 +81,7 @@
 
 
 
-![tejas-gk's TOp Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-gk&theme=radical&hide_langs_below=6) ![tejas-gk's github stats](https://github-readme-stats.vercel.app/api?username=tejas-gk&show_icons=true&theme=radical&line_height=27)	
+![tejas-gk's TOp Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-gk&theme=radical&hide_langs_below=7) ![tejas-gk's github stats](https://github-readme-stats.vercel.app/api?username=tejas-gk&show_icons=true&theme=radical&line_height=27)	
 
 
 [![tejas-gk/orkut](https://github-readme-stats.vercel.app/api/pin/?username=tejas-gk&repo=orkut&theme=radical)](https://github.com/tejas-gk/orkut)  	
