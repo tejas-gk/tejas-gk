@@ -7,7 +7,7 @@
    - react-native
    - illustrator
    - photoshop
-- 😋apart from programming like to :watch anime;read books
+- 😋 apart from programming like to :watch anime;read books
 
 
 
