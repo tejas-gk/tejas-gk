@@ -5,6 +5,7 @@
 - ⚙️learning:
    - react.js 
    - react-native
+   - laravel
    - illustrator
    - photoshop
 - 😋 apart from programming like to :watch anime;read books
