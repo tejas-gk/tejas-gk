@@ -1,13 +1,12 @@
-### <center><h1>Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><a href="https://tejas-gk.github.io/">tejas</h1></center>
+### <center><h1>Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><a href="https://tejas-gk.github.io/">tejas</a></h1></center>
 
 - 🌍 im a fullstack developer
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
 - ⚙️learning:
-   - react.js 
-   - react-native
    - laravel
    - illustrator
    - photoshop
+   -flutter
 - 😋 apart from programming like to :watch anime;read books
 
 
