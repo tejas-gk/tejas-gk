@@ -6,7 +6,7 @@
    - laravel
    - illustrator
    - photoshop
-   -flutter
+   - flutter   
 - 😋 apart from programming like to :watch anime;read books
 
 
