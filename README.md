@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **anything related to Js and DSA**
 
-- 👯 I’m looking to collaborate on [waddle](https://github.com/tejas-gk/waddle)
+- 👯 I’m looking to collaborate on [guild](https://github.com/tejas-gk/guild)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
