@@ -115,8 +115,16 @@ nnoremap <leader><Tab><Tab> :bprevious<CR>
 nnoremap <C-t> :NERDTreeToggle<CR>
 nnoremap <C-f> :NERDTreeFocus<CR>
 nnoremap <C-n> :NERDTree<CR>
-
-
+vnoremap <C-c> "*y
+vnoremap <C-p> "*p
+nnoremap <c-j> <c-w>j
+nnoremap <c-h> <c-w>h
+nnoremap <c-k> <c-w>k
+nnoremap <c-l> <c-w>l
+nnoremap <C-p>"+p<CR>
+" Save on Ctrl-S
+nmap <c-s> :w<CR>
+imap <c-s> <Esc>:w<CR>a
 
 " Other:
 " :BarbarEnable - enables barbar (enabled by default)
