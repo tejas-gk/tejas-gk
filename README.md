@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tejasgk250@gmail.com**
 
-- ⚡ Fun fact **I have 12 diffrent email accounts**
+- ⚡ Fun fact **I have 12 different email accounts**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
