@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/tejas-gk-the-sasster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tejas-gk-the-sasster" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/tejasgk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/tejasgk" height="30" width="40" /></a>
+<a href="https://dev.to/tejasgk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/tejasgk" height="30" width="40" /></a>
 <a href="https://twitter.com/tejasgk250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejasgk250" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tejas-gk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejas-gk/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13753987/tejas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13753987/tejas" height="30" width="40" /></a>
