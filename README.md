@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [guild](https://github.com/tejas-gk/guild)
 
-- 🌱 I’m currently learning **anything related to js but also wanna get into Data Science**
+- 🌱 I’m currently learning **anything related to js but also wanna get into Data Science,mobile dev**
 
 - 👯 I’m looking to collaborate on [UILib](https://github.com/tejas-gk/UILib)
 
