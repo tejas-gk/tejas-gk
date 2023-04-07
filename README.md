@@ -1,4 +1,4 @@
-<h1 align="center">Hello 🌍,I'm Tejas gk</h1>
+<h1 align="center">Hello 🌍 , I'm Tejas gk</h1>
 <h3 align="center">React | Nextjs | Laravel | Typescript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas-gk&label=Profile%20views&color=0e75b6&style=flat" alt="tejas-gk" /> </p>
