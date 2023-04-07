@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas-gk&label=Profile%20views&color=0e75b6&style=flat" alt="tejas-gk" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/d22eb754-944a-44c7-93f5-80d654735d4f.svg)](https://wakatime.com/@d22eb754-944a-44c7-93f5-80d654735d4f)
+
 <p align="left"> <a href="https://twitter.com/tejasgk250" target="blank"><img src="https://img.shields.io/twitter/follow/tejasgk250?logo=twitter&style=for-the-badge" alt="tejasgk250" /></a> </p>
+
 
 - 🔭 I’m currently working on [guild](https://github.com/tejas-gk/guild)
 
