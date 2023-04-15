@@ -51,7 +51,6 @@ src="https://img.shields.io/twitter/follow/tejasgk250?logo=twitter&style=for-the
 
 <a href="http://www.github.com/tejas-gk"><img src="https://github-readme-stats.vercel.app/api?username=tejas-gk&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true" alt="tejas-gk's GitHub stats" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejas-gk&show_icons=true&locale=en" alt="tejas-gk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-gk&" alt="tejas-gk" /></p>
 
