@@ -45,7 +45,10 @@ src="https://img.shields.io/twitter/follow/tejasgk250?logo=twitter&style=for-the
 
 <p align="left"> <a href="https://www.codepen.io/tejas-gk-the-sasster" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.dev.to/tejasgk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/codedemon#6503" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/tejas-gk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/tejas._.gk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tejas-gk/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13753987/tejas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/tejasgk250" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Github Stats
+<details>
+  <summary> 
+       Github Stats
+  </summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas-gk&show_icons=true&locale=en&layout=compact" alt="tejas-gk" /></p>
 
 <a href="http://www.github.com/tejas-gk"><img src="https://github-readme-stats.vercel.app/api?username=tejas-gk&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true" alt="tejas-gk's GitHub stats" /></a>
@@ -54,3 +57,4 @@ src="https://img.shields.io/twitter/follow/tejasgk250?logo=twitter&style=for-the
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-gk&" alt="tejas-gk" /></p>
 
 <a href="http://www.github.com/tejas-gk"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=tejas-gk&bg_color=ffffff&color=000000&line=f97316&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  </details>
