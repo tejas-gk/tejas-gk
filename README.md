@@ -5,7 +5,7 @@
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [tejasgk250@gmail.com](mailto:tejasgk250@gmail.com)
-* 🚀  I'm currently working on [Guild 2.0](http://guild-beta.vercel.app/)
+<!-- * 🚀  I'm currently working on [Guild 2.0](http://guild-beta.vercel.app/) -->
 * 🧠  I'm learning anything related to js but also wanna get into Data Science,mobile dev
 * 🤝  I'm open to collaborating on UiLib
 * ⚡  Fun fact I have 10 emails
