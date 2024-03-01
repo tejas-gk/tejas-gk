@@ -4,11 +4,9 @@
 [![wakatime](https://wakatime.com/badge/user/d22eb754-944a-44c7-93f5-80d654735d4f.svg)](https://wakatime.com/@d22eb754-944a-44c7-93f5-80d654735d4f)
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [tejasgk250@gmail.com](mailto:tejasgk250@gmail.com)
-<!-- * 🚀  I'm currently working on [Guild 2.0](http://guild-beta.vercel.app/) -->
+* ✉️  You can contact me at [tejasgk.build@gmail.com](mailto:tejasgk.build@gmail.com)
 * 🧠  I'm learning anything related to js but also wanna get into Data Science,mobile dev
-* 🤝  I'm open to collaborating on UiLib
-* ⚡  Fun fact I have 10 emails
+* 🤝  I'm open to collaborating on High-table
 
 <a href="https://www.github.com/tejas-gk" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tejas-gk?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a>   
